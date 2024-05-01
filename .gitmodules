@@ -1,0 +1,6 @@
+[submodule "01_HRTF_Comparison/Python-HRTF_Explorer"]
+	path = 01_HRTF_Comparison/Python-HRTF_Explorer
+	url = https://github.com/Katarina-Poole/HRTF_Explorer
+[submodule "01_HRTF_Comparison/JUCE-BRT_JUCE_CMAKE"]
+	path = 01_HRTF_Comparison/JUCE-BRT_JUCE_CMAKE
+	url = https://github.com/Nils-MaTu/BRT_JUCE_CMAKE.git
