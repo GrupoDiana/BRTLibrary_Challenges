@@ -11,10 +11,10 @@ The challenge consisted in creating an app that, either by directly using the BR
 We divided in three groups: 
 
 1. _Grupo_ 1 used the BRT C++ Api and JUCE to create and app that solves the challenge:
-   - This is the link to an example created by [Luis Molina-Tanco](https://github.com/lmtanco) which [Rapolas Daugintis](https://github.com/rapolasd) debugged during the workshop - [Link to submodule](01_HRTF_Comparison/JUCE-brt-juce-basic). 
-   - This is a work-in-progress VST3 plugin using the JUCE framework and BRT in a CMake project (the BRT library has a CMake branch), created by [Nils Marggraff-Turley](https://github.com/Nils-MaTu) - [Link to submodule](01_HRTF_Comparison/JUCE-BRT_JUCE_CMAKE).
+   - This is the link to an example created by [Luis Molina-Tanco](https://github.com/lmtanco) which [Rapolas Daugintis](https://github.com/rapolasd) debugged during the workshop -> [brt-juce-basic](https://github.com/GrupoDiana/brt-juce-basic.git). 
+   - This is a work-in-progress VST3 plugin using the JUCE framework and BRT in a CMake project (the BRT library has a CMake branch), created by [Nils Marggraff-Turley](https://github.com/Nils-MaTu) -> [brt-juce-cmake](https://github.com/Nils-MaTu/BRT_JUCE_CMAKE.git).
 3. _Grupo_ 2 used UNITY to create a Virtual Reality app that connected to BeRTA via its OSC interface. The Oculus HMD (they tried Rift, Quest 2 and Quest 3) tracked listener moves and rendered the visual scene, while BeRTA rendered the spatial audio.
 4. _Grupo_ 3 used MAX MSP and Python to create apps that solve the challenge.
-   - This is the MAX MSP application _Maravilloso, Maravilloso_ created by [Lorenzo Picinali](https://github.com/lpicinali) - [01_HRTF_Comparison/Maxmsp-MaravillosoMaravilloso](01_HRTF_Comparison/Maxmsp-MaravillosoMaravilloso).
-   - This is the Python application created by [Katarina Poole](https://github.com/Katarina-Poole) - [01_HRTF_Comparison/Python-HRTF_Explorer](01_HRTF_Comparison/Python-HRTF_Explorer).
+   - This is the MAX MSP application _Maravilloso, Maravilloso_ created by [Lorenzo Picinali](https://github.com/lpicinali) -> [maxmsp](01_HRTF_Comparison/Maxmsp-MaravillosoMaravilloso).
+   - This is the Python application created by [Katarina Poole](https://github.com/Katarina-Poole) -> [python](https://github.com/Katarina-Poole/HRTF_Explorer.git).
      
