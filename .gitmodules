@@ -4,3 +4,6 @@
 [submodule "01_HRTF_Comparison/JUCE-BRT_JUCE_CMAKE"]
 	path = 01_HRTF_Comparison/JUCE-BRT_JUCE_CMAKE
 	url = https://github.com/Nils-MaTu/BRT_JUCE_CMAKE.git
+[submodule "01_HRTF_Comparison/JUCE-brt-juce-basic"]
+	path = 01_HRTF_Comparison/JUCE-brt-juce-basic
+	url = https://github.com/GrupoDiana/brt-juce-basic
