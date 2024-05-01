@@ -1,8 +1,8 @@
-# BRTLibrary_Challenges
-We celebrated a first BRT Challenge in April 2024 to motivate use of the BRT Library. We hope there will be more!
+# BRTLibrary Challenges
+We celebrated a first BRT Challenge in April 2024 to motivate use of the [BRT Library](https://github.com/GrupoDiana/BRTLibrary). We hope there will be more!
 
 ## Málaga Challenge April 2024: HRTF Comparison
-The challenge consisted in creating an app that, either by directly using the BRT C++ API, or via OSC communication with BeRTA, was capable of:
+The challenge consisted in creating an app that, either by directly using the BRT C++ API, or via OSC communication with *BeRTA* (available in the BRT Library [releases](https://github.com/GrupoDiana/BRTLibrary/releases)), was capable of:
 * Loading a mono audio sample and creating a BRT sound source
 * Loading two or more HRTF sofa files and create a BRT listener. 
 * Move at least one spatial DoF of listener or sound source. For example, source azimuth.
