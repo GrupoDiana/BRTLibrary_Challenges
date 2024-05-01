@@ -6,7 +6,7 @@ The challenge consisted in creating an app that, either by directly using the BR
 * Loading a mono audio sample and creating a BRT sound source
 * Loading two or more HRTF sofa files and create a BRT listener. 
 * Move at least one spatial DoF of listener or sound source. For example, source azimuth.
-* Swap change HRTF during rendering for real time HRTF comparison.  
+* Swap HRTFs during rendering for real time HRTF comparison.  
 
 We divided in three groups: 
 
