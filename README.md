@@ -11,7 +11,7 @@ The challenge consisted in creating an app that, either by directly using the BR
 We divided in three groups: 
 
 1. _Grupo_ 1 used the BRT C++ Api and JUCE to create and app that solves the challenge:
-   - This is the link to an example created by [Luis Molina-Tanco](https://github.com/lmtanco) which [Rapolas Daugintis](https://github.com/rapolasd) debugged during the workshop -> [brt-juce-basic](https://github.com/GrupoDiana/brt-juce-basic.git). 
+   - This is the link to an example created by [Luis Molina-Tanco](https://github.com/lmtanco) which [Rapolas Daugintis](https://github.com/rapolasd) debugged during the workshop -> [brt-juce-projucer](https://github.com/GrupoDiana/brt-juce-basic.git). 
    - This is a work-in-progress VST3 plugin using the JUCE framework and BRT in a CMake project (the BRT library has a CMake branch), created by [Nils Marggraff-Turley](https://github.com/Nils-MaTu) -> [brt-juce-cmake](https://github.com/Nils-MaTu/BRT_JUCE_CMAKE.git).
 3. _Grupo_ 2 used UNITY to create a Virtual Reality app that connected to BeRTA via its OSC interface. The Oculus HMD (they tried Rift, Quest 2 and Quest 3) tracked listener moves and rendered the visual scene, while BeRTA rendered the spatial audio.
 4. _Grupo_ 3 used MAX MSP and Python to create apps that solve the challenge.
