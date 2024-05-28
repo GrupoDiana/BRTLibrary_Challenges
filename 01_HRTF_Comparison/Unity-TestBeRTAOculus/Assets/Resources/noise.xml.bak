@@ -1,0 +1,26 @@
+<BinauralApp>
+    <FrameSize>512</FrameSize>
+    <ListenerPosX>0.000000000</ListenerPosX>
+    <ListenerPosY>0.000000000</ListenerPosY>
+    <ListenerPosZ>0.000000000</ListenerPosZ>
+    <ListenerOrX>0.000000000</ListenerOrX>
+    <ListenerOrY>0.000000000</ListenerOrY>
+    <ListenerOrZ>0.000000000</ListenerOrZ>
+    <ListenerOrW>1.000000000</ListenerOrW>
+    <Platform>Windows</Platform>
+    <OSCListenPort>12301</OSCListenPort>
+    <NumSources>1</NumSources>
+    <ReverbOrder>3D</ReverbOrder>
+    <BRIRPath></BRIRPath>
+    <HRTFPath></HRTFPath>
+    <Source0_x>3.000000000</Source0_x>
+    <Source0_y>0.000000000</Source0_y>
+    <Source0_z>0.000000000</Source0_z>
+    <Source0_vol>1.000000000</Source0_vol>
+    <Source0_vol_dB>-5.000000000</Source0_vol_dB>
+    <Source0_sliderPosition>45</Source0_sliderPosition>
+    <Source_0_filePath>./noise.wav</Source_0_filePath>
+    <Source_0_reverb>On</Source_0_reverb>
+    <Source_0_NF>On</Source_0_NF>
+    <Source_0_FD>On</Source_0_FD>
+</BinauralApp>
